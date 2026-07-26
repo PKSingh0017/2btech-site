@@ -1,0 +1,7 @@
+.DS_Store
+.vercel
+node_modules/
+*.log
+
+.pdf_tools/
+DOC-20260215-WA0006..pdf
